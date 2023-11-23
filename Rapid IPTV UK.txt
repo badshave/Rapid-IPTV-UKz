@@ -1,0 +1,860 @@
+#EXTINF:-1,Clubber TV Event 8 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132042.m3u8
+#EXTINF:-1,Clubber TV Event 7 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132041.m3u8
+#EXTINF:-1,Clubber TV Event 6 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132040.m3u8
+#EXTINF:-1,Clubber TV Event 5 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132039.m3u8
+#EXTINF:-1,Clubber TV Event 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132038.m3u8
+#EXTINF:-1,Clubber TV Event 3 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132037.m3u8
+#EXTINF:-1,Clubber TV Event 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132036.m3u8
+#EXTINF:-1,Clubber TV Event 1 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/132035.m3u8
+#EXTINF:-1,DAZN PPV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/130880.m3u8
+#EXTINF:-1,DAZN HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/130879.m3u8
+#EXTINF:-1,TNT Sports 7 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/129330.m3u8
+#EXTINF:-1,? United Kingdom [UK] ?
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16512.m3u8
+#EXTINF:-1,Virgin Media Two HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20027.m3u8
+#EXTINF:-1,4Seven UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3961.m3u8
+#EXTINF:-1,5Star +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14732.m3u8
+#EXTINF:-1,5 USA +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14731.m3u8
+#EXTINF:-1,5Star UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/9908.m3u8
+#EXTINF:-1,5 USA UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2652.m3u8
+#EXTINF:-1,Aaj Tak UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14854.m3u8
+#EXTINF:-1,B4U Plus UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/25585.m3u8
+#EXTINF:-1,Akaal Channel UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14975.m3u8
+#EXTINF:-1,Alibi HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16729.m3u8
+#EXTINF:-1,Alibi UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14974.m3u8
+#EXTINF:-1,Animal Planet HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/8010.m3u8
+#EXTINF:-1,Animal Planet UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2683.m3u8
+#EXTINF:-1,ARY Digital UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21538.m3u8
+#EXTINF:-1,ARY Family UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28174.m3u8
+#EXTINF:-1,ARY World UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21539.m3u8
+#EXTINF:-1,Sky Sports Racing UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1997.m3u8
+#EXTINF:-1,BBC Alba UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14703.m3u8
+#EXTINF:-1,BBC News HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14701.m3u8
+#EXTINF:-1,BBC News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4020.m3u8
+#EXTINF:-1,BBC World News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/18385.m3u8
+#EXTINF:-1,BBC One CI HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14700.m3u8
+#EXTINF:-1,BBC One E Mid HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14699.m3u8
+#EXTINF:-1,BBC One East E UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14698.m3u8
+#EXTINF:-1,BBC One East W UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14697.m3u8
+#EXTINF:-1,BBC One FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1994.m3u8
+#EXTINF:-1,BBC One HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14755.m3u8
+#EXTINF:-1,BBC One N West UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14696.m3u8
+#EXTINF:-1,BBC One NE&C UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14695.m3u8
+#EXTINF:-1,BBC One NI FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14693.m3u8
+#EXTINF:-1,BBC One S East UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14691.m3u8
+#EXTINF:-1,BBC One S West HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14690.m3u8
+#EXTINF:-1,BBC One Scotland FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14688.m3u8
+#EXTINF:-1,BBC One Wales FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14685.m3u8
+#EXTINF:-1,BBC One West HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14684.m3u8
+#EXTINF:-1,BBC One Yk&Li HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14683.m3u8
+#EXTINF:-1,BBC One Yorks UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14682.m3u8
+#EXTINF:-1,BBC Parliament UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14681.m3u8
+#EXTINF:-1,BBC Red Button 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1996.m3u8
+#EXTINF:-1,BBC Scotland HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14679.m3u8
+#EXTINF:-1,BBC Two Wales HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14678.m3u8
+#EXTINF:-1,BBC One UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3580.m3u8
+#EXTINF:-1,BBC One Wales HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12355.m3u8
+#EXTINF:-1,BBC Two FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12347.m3u8
+#EXTINF:-1,BBC Two UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3581.m3u8
+#EXTINF:-1,BBC Four HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1993.m3u8
+#EXTINF:-1,BET UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14848.m3u8
+#EXTINF:-1,Blaze UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19675.m3u8
+#EXTINF:-1,TNT Sports 1 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14657.m3u8
+#EXTINF:-1,TNT Sports 1 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1991.m3u8
+#EXTINF:-1,TNT Sports 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3586.m3u8
+#EXTINF:-1,TNT Sports 2 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14658.m3u8
+#EXTINF:-1,TNT Sports 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1992.m3u8
+#EXTINF:-1,TNT Sports 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3588.m3u8
+#EXTINF:-1,TNT Sports 3 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14659.m3u8
+#EXTINF:-1,TNT Sports 3 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1965.m3u8
+#EXTINF:-1,TNT Sports Box Office FHD UK (Live During Events Only)
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23754.m3u8
+#EXTINF:-1,TNT Sports Box Office HD
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23755.m3u8
+#EXTINF:-1,TNT Sports 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2673.m3u8
+#EXTINF:-1,TNT Sports 4 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1980.m3u8
+#EXTINF:-1,TNT Sports 5 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14778.m3u8
+#EXTINF:-1,TNT Sports 6 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14809.m3u8
+#EXTINF:-1,TNT Sports 8 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14807.m3u8
+#EXTINF:-1,TNT Sports 3 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14903.m3u8
+#EXTINF:-1,Baby TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/11425.m3u8
+#EXTINF:-1,Fuel TV Europe UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14811.m3u8
+#EXTINF:-1,Bloomberg TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/8298.m3u8
+#EXTINF:-1,Boomerang UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1962.m3u8
+#EXTINF:-1,BoxNation UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4010.m3u8
+#EXTINF:-1,4Music UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20254.m3u8
+#EXTINF:-1,British Muslim TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14971.m3u8
+#EXTINF:-1,CBBC HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12348.m3u8
+#EXTINF:-1,CBS Reality UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3946.m3u8
+#EXTINF:-1,CBeebies UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3582.m3u8
+#EXTINF:-1,CGTN HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14970.m3u8
+#EXTINF:-1,Celtic TV (Live During Match Only) UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16800.m3u8
+#EXTINF:-1,CITV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/9588.m3u8
+#EXTINF:-1,CNBC UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14968.m3u8
+#EXTINF:-1,CNN FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14726.m3u8
+#EXTINF:-1,CNN UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3995.m3u8
+#EXTINF:-1,Cartoon Network HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3967.m3u8
+#EXTINF:-1,Challenge UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14945.m3u8
+#EXTINF:-1,Channel 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14890.m3u8
+#EXTINF:-1,Channel 4 London UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2681.m3u8
+#EXTINF:-1,Channel 4 Midlands UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14889.m3u8
+#EXTINF:-1,Channel 4 North UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14888.m3u8
+#EXTINF:-1,Channel 4 Scotland UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14886.m3u8
+#EXTINF:-1,Channel 4 South & East UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14885.m3u8
+#EXTINF:-1,Channel 5 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14728.m3u8
+#EXTINF:-1,Channel 5 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14727.m3u8
+#EXTINF:-1,Channel 5 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2680.m3u8
+#EXTINF:-1,Channel 5+1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14729.m3u8
+#EXTINF:-1,Now 90's UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15053.m3u8
+#EXTINF:-1,Clubland TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15051.m3u8
+#EXTINF:-1,Colors UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1988.m3u8
+#EXTINF:-1,Comedy Central HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16722.m3u8
+#EXTINF:-1,Comedy Central UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3948.m3u8
+#EXTINF:-1,Comedy Central +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14847.m3u8
+#EXTINF:-1,Comedy Central Extra UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14762.m3u8
+#EXTINF:-1,Crime + Investigation UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14943.m3u8
+#EXTINF:-1,DMAX UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1983.m3u8
+#EXTINF:-1,Dave HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/8012.m3u8
+#EXTINF:-1,Dave UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14967.m3u8
+#EXTINF:-1,Discovery Channel HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14863.m3u8
+#EXTINF:-1,Discovery Channel UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1986.m3u8
+#EXTINF:-1,Discovery History UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1985.m3u8
+#EXTINF:-1,Investigation Discovery UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3982.m3u8
+#EXTINF:-1,Discovery Science UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2679.m3u8
+#EXTINF:-1,Discovery Turbo UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3978.m3u8
+#EXTINF:-1,Drama UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3957.m3u8
+#EXTINF:-1,Dunya News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14881.m3u8
+#EXTINF:-1,E! UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3966.m3u8
+#EXTINF:-1,E4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/8013.m3u8
+#EXTINF:-1,ETV5 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14673.m3u8
+#EXTINF:-1,ETV4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14672.m3u8
+#EXTINF:-1,Eden UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14965.m3u8
+#EXTINF:-1,FOX News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/11429.m3u8
+#EXTINF:-1,Film 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1979.m3u8
+#EXTINF:-1,Film 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19136.m3u8
+#EXTINF:-1,Fashion TV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21120.m3u8
+#EXTINF:-1,Food Network UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3991.m3u8
+#EXTINF:-1,Viaplay Xtra UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19642.m3u8
+#EXTINF:-1,Geo Tez UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15041.m3u8
+#EXTINF:-1,Geo TV Network UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14838.m3u8
+#EXTINF:-1,GOLD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14963.m3u8
+#EXTINF:-1,Sky History 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3569.m3u8
+#EXTINF:-1,Sky History HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3976.m3u8
+#EXTINF:-1,HGTV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14961.m3u8
+#EXTINF:-1,Horror Channel UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3941.m3u8
+#EXTINF:-1,Horror Channel +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14774.m3u8
+#EXTINF:-1,Horse & Country TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14832.m3u8
+#EXTINF:-1,Hum TV Europe UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21535.m3u8
+#EXTINF:-1,Hum TV World UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21536.m3u8
+#EXTINF:-1,ITV Westcountry South West UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14725.m3u8
+#EXTINF:-1,ITV Be HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16723.m3u8
+#EXTINF:-1,ITV Box Office (Live During Events Only) UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16914.m3u8
+#EXTINF:-1,ITV FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1995.m3u8
+#EXTINF:-1,ITV Meridian South East UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14718.m3u8
+#EXTINF:-1,ITV Yorkshire West UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14714.m3u8
+#EXTINF:-1,ITV 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3576.m3u8
+#EXTINF:-1,ITV 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3577.m3u8
+#EXTINF:-1,ITV 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/18899.m3u8
+#EXTINF:-1,ITV 2 +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14712.m3u8
+#EXTINF:-1,ITV 3 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14738.m3u8
+#EXTINF:-1,ITV 3 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3578.m3u8
+#EXTINF:-1,ITV 3 +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14711.m3u8
+#EXTINF:-1,ITV 4 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12346.m3u8
+#EXTINF:-1,ITV 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3583.m3u8
+#EXTINF:-1,ITV 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3579.m3u8
+#EXTINF:-1,ITV 4 +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14671.m3u8
+#EXTINF:-1,ITV Be UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/9587.m3u8
+#EXTINF:-1,Iqra TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/25584.m3u8
+#EXTINF:-1,Pop Max +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14875.m3u8
+#EXTINF:-1,Lifetime HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14938.m3u8
+#EXTINF:-1,Liverpool FC TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3568.m3u8
+#EXTINF:-1,London Live UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14958.m3u8
+#EXTINF:-1,MTV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20031.m3u8
+#EXTINF:-1,Club MTV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/7318.m3u8
+#EXTINF:-1,MTV Hits UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/7317.m3u8
+#EXTINF:-1,MTV Music UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/7316.m3u8
+#EXTINF:-1,MTV 90s UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/7315.m3u8
+#EXTINF:-1,MTV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2670.m3u8
+#EXTINF:-1,MUTV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2655.m3u8
+#EXTINF:-1,More 4 +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14871.m3u8
+#EXTINF:-1,More 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16724.m3u8
+#EXTINF:-1,More 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4000.m3u8
+#EXTINF:-1,Great! Movies Action UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1971.m3u8
+#EXTINF:-1,5 Select UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14709.m3u8
+#EXTINF:-1,National Geographic HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3561.m3u8
+#EXTINF:-1,National Geographic Wild HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1968.m3u8
+#EXTINF:-1,News 18 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15026.m3u8
+#EXTINF:-1,Nick HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16719.m3u8
+#EXTINF:-1,Nick Jr. +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14829.m3u8
+#EXTINF:-1,Nick Jr. Peppa UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14828.m3u8
+#EXTINF:-1,Nick Jr. UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/2669.m3u8
+#EXTINF:-1,Nickelodeon UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14825.m3u8
+#EXTINF:-1,NickToons UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14824.m3u8
+#EXTINF:-1,Noor TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15025.m3u8
+#EXTINF:-1,PBS America UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14870.m3u8
+#EXTINF:-1,Pop +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14868.m3u8
+#EXTINF:-1,Pop Max UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14867.m3u8
+#EXTINF:-1,Pop UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14869.m3u8
+#EXTINF:-1,PTC Punjabi UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15020.m3u8
+#EXTINF:-1,Sky Mix HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3958.m3u8
+#EXTINF:-1,Viaplay Sports 1 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3584.m3u8
+#EXTINF:-1,Quest UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14823.m3u8
+#EXTINF:-1,Rangers TV (Live During Match Only) UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16801.m3u8
+#EXTINF:-1,Rok UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14954.m3u8
+#EXTINF:-1,RT HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3923.m3u8
+#EXTINF:-1,RT UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14821.m3u8
+#EXTINF:-1,RTÉ 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14928.m3u8
+#EXTINF:-1,RTÉ News Now UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/11423.m3u8
+#EXTINF:-1,RTÉ One HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1966.m3u8
+#EXTINF:-1,Racing TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3585.m3u8
+#EXTINF:-1,Racing TV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15019.m3u8
+#EXTINF:-1,Sky Crime FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/11430.m3u8
+#EXTINF:-1,Really UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3947.m3u8
+#EXTINF:-1,Colors Cineplex UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15017.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14651.m3u8
+#EXTINF:-1,Sky Sports Cricket FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14652.m3u8
+#EXTINF:-1,Sky Sports NFL FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14653.m3u8
+#EXTINF:-1,Sky Sports Golf FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14654.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14655.m3u8
+#EXTINF:-1,Sky Sports F1 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14656.m3u8
+#EXTINF:-1,Sony SAB UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14820.m3u8
+#EXTINF:-1,STV FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14952.m3u8
+#EXTINF:-1,Sangat UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15015.m3u8
+#EXTINF:-1,Showcase UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15014.m3u8
+#EXTINF:-1,Sky Max HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/8011.m3u8
+#EXTINF:-1,Sky Max UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3571.m3u8
+#EXTINF:-1,Sky Replay UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3573.m3u8
+#EXTINF:-1,Sky Arts HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16728.m3u8
+#EXTINF:-1,Sky Arts UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1963.m3u8
+#EXTINF:-1,Sky Atlantic HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3562.m3u8
+#EXTINF:-1,Sky Cinema Action & Adventure HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1961.m3u8
+#EXTINF:-1,Sky Cinema Action & Adventure UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3559.m3u8
+#EXTINF:-1,Sky Cinema Comedy FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20109.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14924.m3u8
+#EXTINF:-1,Sky Cinema Comedy UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3563.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20118.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14936.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1955.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1960.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20111.m3u8
+#EXTINF:-1,Sky Cinema Family HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3926.m3u8
+#EXTINF:-1,Sky Cinema Family FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20112.m3u8
+#EXTINF:-1,Sky Cinema Greats UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1959.m3u8
+#EXTINF:-1,Sky Cinema Greats FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20113.m3u8
+#EXTINF:-1,Sky Cinema Hits UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16503.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20114.m3u8
+#EXTINF:-1,Sky Cinema Premiere HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1958.m3u8
+#EXTINF:-1,Sky Cinema Premiere FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20115.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1957.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20116.m3u8
+#EXTINF:-1,Sky Cinema Select FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20117.m3u8
+#EXTINF:-1,Sky Witness HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16720.m3u8
+#EXTINF:-1,Sky Witness UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3567.m3u8
+#EXTINF:-1,Sky News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3570.m3u8
+#EXTINF:-1,Sky News HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19039.m3u8
+#EXTINF:-1,Sky Sports NFL HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3598.m3u8
+#EXTINF:-1,Sky Sports NFL UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14747.m3u8
+#EXTINF:-1,Sky Sports Arena FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16969.m3u8
+#EXTINF:-1,Sky Sports Arena HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16968.m3u8
+#EXTINF:-1,Sky Sports Main Event HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/5600.m3u8
+#EXTINF:-1,Sky Sports Main Event UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14753.m3u8
+#EXTINF:-1,Sky Sports Cricket HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/5601.m3u8
+#EXTINF:-1,Sky Sports Cricket UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14750.m3u8
+#EXTINF:-1,Sky Sports Football HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20024.m3u8
+#EXTINF:-1,Sky Sports Football FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16970.m3u8
+#EXTINF:-1,Sky Sports Golf HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3600.m3u8
+#EXTINF:-1,Sky Sports Golf UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14744.m3u8
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4458.m3u8
+#EXTINF:-1,Sky Sports Premier League UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14742.m3u8
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14756.m3u8
+#EXTINF:-1,Sky Sports F1 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3603.m3u8
+#EXTINF:-1,Sky Sports F1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14739.m3u8
+#EXTINF:-1,Sky Sports Mix FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14902.m3u8
+#EXTINF:-1,Sky Sports Mix UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14926.m3u8
+#EXTINF:-1,Sky Sports News FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/1954.m3u8
+#EXTINF:-1,Eurosport 1 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/13091.m3u8
+#EXTINF:-1,Eurosport 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3590.m3u8
+#EXTINF:-1,Eurosport 2 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/13092.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3591.m3u8
+#EXTINF:-1,Sporty Stuff TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/85577.m3u8
+#EXTINF:-1,Sky News Arabia UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14925.m3u8
+#EXTINF:-1,SIS1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27023.m3u8
+#EXTINF:-1,Great! Movies UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14790.m3u8
+#EXTINF:-1,Star Gold UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12351.m3u8
+#EXTINF:-1,Star Jalsha UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12352.m3u8
+#EXTINF:-1,Star Bharat UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/12350.m3u8
+#EXTINF:-1,Star Plus UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14788.m3u8
+#EXTINF:-1,Sky Sci-Fi HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16727.m3u8
+#EXTINF:-1,Syfy UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3939.m3u8
+#EXTINF:-1,Talking Pictures TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20328.m3u8
+#EXTINF:-1,TG4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4005.m3u8
+#EXTINF:-1,TLC Europe UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/15501.m3u8
+#EXTINF:-1,TLC UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/4027.m3u8
+#EXTINF:-1,TLC HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/20032.m3u8
+#EXTINF:-1,TVC News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14950.m3u8
+#EXTINF:-1,Tiny Pop UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/9898.m3u8
+#EXTINF:-1,Great! TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14859.m3u8
+#EXTINF:-1,ITV Northern Ireland UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14704.m3u8
+#EXTINF:-1,Sky Comedy HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16725.m3u8
+#EXTINF:-1,MTV 00s UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3943.m3u8
+#EXTINF:-1,Vice HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14923.m3u8
+#EXTINF:-1,Venus TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14947.m3u8
+#EXTINF:-1,W HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16726.m3u8
+#EXTINF:-1,W UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14946.m3u8
+#EXTINF:-1,Yesterday UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/3962.m3u8
+#EXTINF:-1,EuroNews UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14964.m3u8
+#EXTINF:-1,S4C UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/17247.m3u8
+#EXTINF:-1,MTV 80s UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/17388.m3u8
+#EXTINF:-1,Ginx eSports TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/17165.m3u8
+#EXTINF:-1,Cartoonito UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/18790.m3u8
+#EXTINF:-1,Zee TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21533.m3u8
+#EXTINF:-1,Zing TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/21534.m3u8
+#EXTINF:-1,ITV 3 FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14292.m3u8
+#EXTINF:-1,GOLD HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23931.m3u8
+#EXTINF:-1,Virgin Media One UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/24485.m3u8
+#EXTINF:-1,Virgin Media Three UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/24486.m3u8
+#EXTINF:-1,Quest Red UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/24957.m3u8
+#EXTINF:-1,? Premier League & EFL ?
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/16510.m3u8
+#EXTINF:-1,iFollow 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23925.m3u8
+#EXTINF:-1,iFollow 10 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23916.m3u8
+#EXTINF:-1,iFollow 11 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23915.m3u8
+#EXTINF:-1,iFollow 12 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23914.m3u8
+#EXTINF:-1,iFollow 13 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23913.m3u8
+#EXTINF:-1,iFollow 14 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23912.m3u8
+#EXTINF:-1,iFollow 15 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23911.m3u8
+#EXTINF:-1,iFollow 16 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23910.m3u8
+#EXTINF:-1,iFollow 17 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23909.m3u8
+#EXTINF:-1,iFollow 18 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23908.m3u8
+#EXTINF:-1,iFollow 19 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23907.m3u8
+#EXTINF:-1,iFollow 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23924.m3u8
+#EXTINF:-1,iFollow 20 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23906.m3u8
+#EXTINF:-1,iFollow 3 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23923.m3u8
+#EXTINF:-1,iFollow 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23922.m3u8
+#EXTINF:-1,iFollow 5 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23921.m3u8
+#EXTINF:-1,iFollow 6 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23920.m3u8
+#EXTINF:-1,iFollow 7 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23919.m3u8
+#EXTINF:-1,iFollow 8 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23918.m3u8
+#EXTINF:-1,iFollow 9 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/23917.m3u8
+#EXTINF:-1,5 Action UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/25558.m3u8
+#EXTINF:-1,RT Documentary UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14966.m3u8
+#EXTINF:-1,Viaplay Sports 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/26594.m3u8
+#EXTINF:-1,Love Nature FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/26838.m3u8
+#EXTINF:-1,EPL 1 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19032.m3u8
+#EXTINF:-1,EPL 2 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19033.m3u8
+#EXTINF:-1,EPL 3 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19034.m3u8
+#EXTINF:-1,EPL 4 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19035.m3u8
+#EXTINF:-1,EPL 5 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19036.m3u8
+#EXTINF:-1,EPL 6 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19037.m3u8
+#EXTINF:-1,EPL 7 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19089.m3u8
+#EXTINF:-1,EPL 8 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/19090.m3u8
+#EXTINF:-1,EPL 9 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28167.m3u8
+#EXTINF:-1,EPL 10 [spark]
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28168.m3u8
+#EXTINF:-1,CNBC FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/29301.m3u8
+#EXTINF:-1,Great! Movies+1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/18632.m3u8
+#EXTINF:-1,Trace Vault UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/70827.m3u8
+#EXTINF:-1,Poker Stars UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/63795.m3u8
+#EXTINF:-1,Sky Cinema Animation FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/72660.m3u8
+#EXTINF:-1,NickMusic UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/72680.m3u8
+#EXTINF:-1,Al Jazeera International FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/80362.m3u8
+#EXTINF:-1,Sky Nature HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/80498.m3u8
+#EXTINF:-1,Sky Documentaries HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/80499.m3u8
+#EXTINF:-1,CBeebies FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/80500.m3u8
+#EXTINF:-1,BBC One London HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/80501.m3u8
+#EXTINF:-1,GB News FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87123.m3u8
+#EXTINF:-1,Now 70's UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87134.m3u8
+#EXTINF:-1,SPFL 1 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87137.m3u8
+#EXTINF:-1,SPFL 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87138.m3u8
+#EXTINF:-1,SPFL 3 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87139.m3u8
+#EXTINF:-1,SPFL 4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87140.m3u8
+#EXTINF:-1,SPFL 6 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87142.m3u8
+#EXTINF:-1,LaLiga TV FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/88259.m3u8
+#EXTINF:-1,Spark 1 UEFA FHD
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/88676.m3u8
+#EXTINF:-1,Spark 2 UEFA FHD
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/88677.m3u8
+#EXTINF:-1,Spark 3 UEFA FHD
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/88678.m3u8
+#EXTINF:-1,Spark 4 UEFA FHD
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/88679.m3u8
+#EXTINF:-1,Sky Showcase HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/90913.m3u8
+#EXTINF:-1,TNT Sports 9 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/91874.m3u8
+#EXTINF:-1,TNT Sports 10 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/91875.m3u8
+#EXTINF:-1,CBS Reality +1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14776.m3u8
+#EXTINF:-1,Now 80's UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/92442.m3u8
+#EXTINF:-1,Sky Sports News UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/94854.m3u8
+#EXTINF:-1,SIS Racing UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27027.m3u8
+#EXTINF:-1,Betfred TV1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27030.m3u8
+#EXTINF:-1,Betfred TV2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27031.m3u8
+#EXTINF:-1,SPFL 5 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/87141.m3u8
+#EXTINF:-1,Ladbrokes 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27029.m3u8
+#EXTINF:-1,Ladbrokes 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27026.m3u8
+#EXTINF:-1,Betfred TV3 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27032.m3u8
+#EXTINF:-1,Coral TV2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27022.m3u8
+#EXTINF:-1,Coral TV1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/27021.m3u8
+#EXTINF:-1,ITV Meridian South UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14719.m3u8
+#EXTINF:-1,Travelxp UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14784.m3u8
+#EXTINF:-1,BBC Three HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99319.m3u8
+#EXTINF:-1,BBC Red Button HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99320.m3u8
+#EXTINF:-1,BBC Red Button 2 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99321.m3u8
+#EXTINF:-1,Eurosport 3 XTRA HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99328.m3u8
+#EXTINF:-1,Eurosport 4 XTRA HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99329.m3u8
+#EXTINF:-1,Eurosport 5 XTRA HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99330.m3u8
+#EXTINF:-1,Sky Sports Red Button 1 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99862.m3u8
+#EXTINF:-1,Sky Sports Red Button 2 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99863.m3u8
+#EXTINF:-1,Sky Sports Red Button 3 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99864.m3u8
+#EXTINF:-1,Sky Sports Red Button 4 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99865.m3u8
+#EXTINF:-1,Sky Sports Red Button 5 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99866.m3u8
+#EXTINF:-1,Sky Sports Red Button 6 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99867.m3u8
+#EXTINF:-1,Sky Sports Red Button 7 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99868.m3u8
+#EXTINF:-1,Sky Sports Red Button 8 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99869.m3u8
+#EXTINF:-1,Sky Sports Red Button 9 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99870.m3u8
+#EXTINF:-1,Sky Sports Red Button 10 UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99871.m3u8
+#EXTINF:-1,Foodxp UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/99915.m3u8
+#EXTINF:-1,Sky Sports Action HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/108338.m3u8
+#EXTINF:-1,Sky Sports Action FHD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/108339.m3u8
+#EXTINF:-1,TNT Sports Ultimate 4K UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/108897.m3u8
+#EXTINF:-1,ITV 1 Wales UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/116979.m3u8
+#EXTINF:-1,Earthx TV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/116981.m3u8
+#EXTINF:-1,TG4 HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/14960.m3u8
+#EXTINF:-1,Premier Sports 2 HD IE
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/118268.m3u8
+#EXTINF:-1,Premier Sports 1 HD IE
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/118269.m3u8
+#EXTINF:-1,Talk TV HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/121658.m3u8
+#EXTINF:-1,Court TV UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/125011.m3u8
+#EXTINF:-1,Sony HD UK
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/125015.m3u8
+#EXTINF:-1,SuperSport PSL HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28894.m3u8
+#EXTINF:-1,SuperSport LaLiga HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28895.m3u8
+#EXTINF:-1,SuperSport Premier League HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28896.m3u8
+#EXTINF:-1,SuperSport Grandstand HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28897.m3u8
+#EXTINF:-1,SuperSport Variety 2 HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28898.m3u8
+#EXTINF:-1,SuperSport Variety 1 HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28899.m3u8
+#EXTINF:-1,SuperSport Action HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28900.m3u8
+#EXTINF:-1,SuperSport Football HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28901.m3u8
+#EXTINF:-1,SuperSport Variety 4 HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28902.m3u8
+#EXTINF:-1,SuperSport Variety 3 HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28903.m3u8
+#EXTINF:-1,SuperSport Rugby HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28904.m3u8
+#EXTINF:-1,SuperSport Cricket HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28905.m3u8
+#EXTINF:-1,SuperSport Blitz HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28906.m3u8
+#EXTINF:-1,SuperSport Maximo 1 HD ZA
+http://tv.rapidiptv.tvip.xyz:80/live/BjKoXi72az97/XEAX4V97/28907.m3u8
